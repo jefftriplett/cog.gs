@@ -20,7 +20,10 @@ description: >
   experiments and projects over the years. In case I decide to go public
   with any of them, I figured I'd park the domain here just in case.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cog.gs"
+enforce_ssl: "cog.gs"
+relative_permalinks: false
+future: true
 twitter_username: webology
 github_username: jefftriplett
 
